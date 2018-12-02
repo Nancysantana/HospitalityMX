@@ -22,7 +22,7 @@ Obtimizar el sitio web de hospitalETMx a HospitalityMx, relizando Cambios en log
 
 Versión anterios del Sitio.
 
-![Sitio hospitalETMx](assets/images/HospitalETMx.png)
+![Sitio hospitalETMx](assets/images/HospitalETmx.png)
 
 ## Actualizar Logo e Información de Contacto.  
 
