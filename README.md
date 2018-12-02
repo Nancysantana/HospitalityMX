@@ -22,7 +22,7 @@ Obtimizar el sitio web de hospitalETMx a HospitalityMx, relizando Cambios en log
 
 Versión anterios del Sitio.
 
-![Sitio hospitalETMx](assets/images/hospitalETMx.png)
+![Sitio hospitalETMx](assets/images/HospitalETMx.png)
 
 ## Actualizar Logo e Información de Contacto.  
 
@@ -65,10 +65,10 @@ En la sección Contacto se sustituyó imágen, en WordPress utilizando código h
 
 ## Equipo:
 
-Diseñadora: Edith Balbuena
-Traducción de copy: Luis Palestino
-Frond-end: Nancy Santana
-Programado Backend: Mario Mayorga
+#### Diseñadora: Edith Balbuena
+#### Traducción de copy: Luis Palestino
+#### Frond-end: Nancy Santana
+#### Programado Backend: Mario Mayorga
 
 
 
