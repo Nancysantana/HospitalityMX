@@ -5,7 +5,7 @@
 
 ### hospitalitymx
 
-Es una sitio web enfocada al Turismo médico de Estados Unidos a México que tiene como objetivo recibir más pacientes estadounidenses que buscan atención medica a un costo menor y de calidad.
+Es un sitio web enfocado al Turismo Médico de Estados Unidos a México que tiene como objetivo recibir más pacientes estadounidenses que buscan atención medica a un costo menor y de calidad.
 
 Ofrece los siguientes servicios:
 * Médicos Especialistas.
@@ -15,7 +15,7 @@ Ofrece los siguientes servicios:
 
 ### Objetivos del Proyecto:
 
-Obtimizar el sitio web de hospitalETMx a HospitalityMx, relizando Cambios en logo, sustituir imágenes y copy, Actualizar Información de contacto, con el objetivo de aumentar el trafico al sitio y hacer más amigable para el usuario final.
+Optimizar el sitio web de hospitalETMx a HospitalityMx, relizando Cambios en logo, sustituir imágenes y copy's, Actualizar información de contacto, con el objetivo de aumentar el trafico al sitio y hacer más amigable para el usuario final.
 
 
 ## Sitio HospitalETMx
@@ -24,7 +24,7 @@ Versión anterios del Sitio.
 
 ![Sitio hospitalETMx](assets/images/HospitalETmx.png)
 
-## Actualizar Logo e Información de Contacto.  
+## Actualizar Logo e información de Contacto.  
 
 Se sustituyó el Logo en WordPress utilizando código html.
 
@@ -65,10 +65,10 @@ En la sección Contacto se sustituyó imágen, en WordPress utilizando código h
 
 ## Equipo:
 
-#### Diseñadora: Edith Balbuena
-#### Traducción de copy: Luis Palestino
+#### Diseñador: Edith Balbuena
+#### Traducción: Luis Palestino
 #### Frond-end: Nancy Santana
-#### Programado Backend: Mario Mayorga
+#### Programador Backend: Mario Mayorga
 
 
 
